@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/travis/build/tnovits/print_ip/main.cpp
+print_ip.h
+/home/travis/build/tnovits/print_ip/print_ip.h
+string
+-
+vector
+-
+list
+-
+
+/home/travis/build/tnovits/print_ip/print_ip.h
+string
+-
+iostream
+-
+

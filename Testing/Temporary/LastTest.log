@@ -1,0 +1,21 @@
+Start testing: Jan 05 18:45 UTC
+----------------------------------------------------------
+1/1 Testing: print_ip_tests
+1/1 Test: print_ip_tests
+Command: "/home/travis/build/tnovits/print_ip/test_print_ip"
+Directory: /home/travis/build/tnovits/print_ip
+"print_ip_tests" start time: Jan 05 18:45 UTC
+Output:
+----------------------------------------------------------
+Running 7 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"print_ip_tests" end time: Jan 05 18:45 UTC
+"print_ip_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 05 18:45 UTC
